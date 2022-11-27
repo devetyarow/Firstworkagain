@@ -1,0 +1,15 @@
+D:\Exercises\a task002\bin\Debug\net7.0\a task002.exe
+D:\Exercises\a task002\bin\Debug\net7.0\a task002.deps.json
+D:\Exercises\a task002\bin\Debug\net7.0\a task002.runtimeconfig.json
+D:\Exercises\a task002\bin\Debug\net7.0\a task002.dll
+D:\Exercises\a task002\bin\Debug\net7.0\a task002.pdb
+D:\Exercises\a task002\obj\Debug\net7.0\a task002.csproj.AssemblyReference.cache
+D:\Exercises\a task002\obj\Debug\net7.0\a task002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\a task002\obj\Debug\net7.0\a task002.AssemblyInfoInputs.cache
+D:\Exercises\a task002\obj\Debug\net7.0\a task002.AssemblyInfo.cs
+D:\Exercises\a task002\obj\Debug\net7.0\a task002.csproj.CoreCompileInputs.cache
+D:\Exercises\a task002\obj\Debug\net7.0\a task002.dll
+D:\Exercises\a task002\obj\Debug\net7.0\refint\a task002.dll
+D:\Exercises\a task002\obj\Debug\net7.0\a task002.pdb
+D:\Exercises\a task002\obj\Debug\net7.0\a task002.genruntimeconfig.cache
+D:\Exercises\a task002\obj\Debug\net7.0\ref\a task002.dll
